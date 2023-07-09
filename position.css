@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.perent{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    position: sticky ;
+    top: 50px;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: red;
+    position: sticky;
+    position: ;
+}
