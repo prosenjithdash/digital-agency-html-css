@@ -1,0 +1,9 @@
+.banner{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+    
+}
